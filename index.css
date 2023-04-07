@@ -7,7 +7,7 @@ body{
 }
 .header-box{
     padding: 5px;
-    background-image: url(/ANH/sile3.jpg );
+    background-image: url(ANH/sile3.jpg );
     background-repeat: no-repeat;
     height: 300px;
 }
@@ -208,7 +208,7 @@ img{
         color: rgba(0,38,72,.8);
     }
     .header-box{
-        background-image: url(/ANH/ha-long-bay-mobile.jpg);
+        background-image: url(ANH/ha-long-bay-mobile.jpg);
     }
     .form-control{
         width: 100%;
@@ -251,7 +251,7 @@ img{
         border: none;
     }
     .header-box{
-        background-image: url(/ANH/ha-long-bay-copy.jpg);
+        background-image: url(ANH/ha-long-bay-copy.jpg);
     }
     .form{
         display: flex;
